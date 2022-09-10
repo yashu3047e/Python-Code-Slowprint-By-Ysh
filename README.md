@@ -19,7 +19,6 @@ It a very helpful module for attracting somebody '''
 # Age : 15 Years 
 # ''' 1st Slowprint Formula '''
 
-# slowprint("Hello My Name Is Yash And I Found This Slowprind Module at Chrome Its Such A lovely Module Loved It")
 # slowprint("Hello Nice to See You")
 
 # ''' Python Program To Adjust Speed in Your terminal '''
