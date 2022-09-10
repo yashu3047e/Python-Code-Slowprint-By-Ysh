@@ -26,8 +26,6 @@ It a very helpful module for attracting somebody '''
 # name = input("Enter You Name :")
 
 # from slowprint.slowprint import *
-# slowprint("Hello World, this is slow print , i found this o Chrome ", 0.70)
-
 from slowprint.slowprint import *
 slowprint("What Is Your Name :\t " , 0.5)
 
